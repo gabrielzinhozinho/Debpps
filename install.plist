@@ -11,19 +11,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://dn720707.ca.archive.org/0/items/iOSObscura/iOS%205/com.pandora/Pandora-%28com.pandora%29-5.1-%28iOS_5.0%29-bb1770fb659b5933ffcd327e4a7222f1.ipa</string>
+          <string>http://https://ia801403.us.archive.org/21/items/iOSObscura/iOS%205/com.google.chrome.ios/Chrome-%28com.google.chrome.ios%29-25.0.1364.86-%28iOS_5.0%29-f11ad00663af4398cafa1109cbffb545.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.pandora</string>
+        <string>com.seuapp.id</string>
         <key>bundle-version</key>
-        <string>5.1</string>
+        <string>1.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Pandora</string>
+        <string>Meu App</string>
       </dict>
     </dict>
   </array>
