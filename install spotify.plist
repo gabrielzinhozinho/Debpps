@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>http://https://ia801403.us.archive.org/21/items/iOSObscura/iOS%205/com.google.chrome.ios/Chrome-%28com.google.chrome.ios%29-25.0.1364.86-%28iOS_5.0%29-f11ad00663af4398cafa1109cbffb545.ipa</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.seuapp.id</string>
+        <key>bundle-version</key>
+        <string>1.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Meu App</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
