@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://dn720707.ca.archive.org/0/items/iOSObscura/iOS%206/com.chillingo.angrybirdsipad/Angry%20Birds-%28com.chillingo.angrybirdsipad%29-6.0.6.44817-%28iOS_6.0%29-c962842e9fdce377b7344bfa7726c0fd.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.chillingo.angrybridsipad</string>
+                <key>bundle-version</key>
+                <string>6.0.6</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Angry Birds HD</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
